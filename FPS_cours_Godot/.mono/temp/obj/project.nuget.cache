@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/4cPMW4+Mrc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miros\\Desktop\\Godot CSHARP FPS RETRO\\FPS_cours_Godot\\FPS_cours_Godot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miros\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\miros\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
